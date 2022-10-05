@@ -1,4 +1,4 @@
-import kyungil from '../assets/jpeg/경일게임.jpeg';
+import kyungil from '../assets/jpeg/kyungil.jpeg';
 
 export const achievementData = {
 	bio: '',

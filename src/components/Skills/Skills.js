@@ -73,6 +73,7 @@ function Skills() {
 						<h3 className='techName'>React</h3>
 						<li>Redux-Thunk, Redux-Saga를 활용한 유연한 상태관리 가능</li>
 						<li>React custom hook을 작성하여 효율적인 코드 작성 가능</li>
+						<li>Function Components를 사용하여 직관적이고, 함수형 프로그래밍을 할 수 있습니다.</li>
 					</ul>
 				</div>
 			</div>
